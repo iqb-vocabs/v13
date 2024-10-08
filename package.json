@@ -1,7 +1,7 @@
 {
   "name": "v13",
   "version": "0.1.0",
-  "description": "Bildungsstandards im Fach Chemie MSA 2004",
+  "description": "Bildungsstandards im Deutsch Primar 2004",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",
