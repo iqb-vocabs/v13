@@ -1,0 +1,49 @@
+{
+    "id": "2004Deutsch",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Bildungsstandards Deutsch Primar 2004"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v13",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "k1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Standards für die Kompetenzbereiche des Faches Deutsch"
+          }
+        ],
+        "filenameSource": "k1_Standards_Kompetenzbereiche.csv",
+        "filenameTarget": "k1_Standards_Kompetenzbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "a1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Fachspezifische Beschreibung der Anforderungsbereiche"
+          }
+        ],
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Die folgenden Aufgabenbeispiele zeigen die Bandbreite unterschiedlicher Anforderungen. Zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen wird auf drei Anforderungsbereiche zurückgegriffen, die hier exemplarisch anhand von Aufgabenstellungen aus zwei Aufgabenbeispielen zum Lesen und zum Schreiben konkretisiert werden.\"\""
+          }
+        ]
+      }
+    ]
+  }
