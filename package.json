@@ -1,7 +1,7 @@
 {
   "name": "v13",
   "version": "0.1.0",
-  "description": "Bildungsstandards im Fach Chemie MSA 2004",
+  "description": "Bildungsstandards im Deutsch Primar 2004",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/iqb-vocabs/v13#readme",
   "dependencies": {
-    "@iqb/csv2ttl": "^0.8.1"
+    "@iqb/csv2ttl": "^0.8.2"
   }
 }

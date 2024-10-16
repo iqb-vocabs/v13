@@ -170,7 +170,8 @@ n1:t2d
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Sprechen und Zuhören"@de;
+	skos:prefLabel "Sprechen und Zuhören"@de; 
+	skos:definition """Die mündliche Sprache ist ein zentrales Mittel aller schulischen und außerschulischen Kommunikation. Sprechen ist immer auch soziales Handeln.\n\nDie Kinder entwickeln eine demokratische Gesprächskultur und erweitern ihre mündliche Sprachhandlungskompetenz. Sie führen Gespräche, erzählen, geben und verarbeiten Informationen, gestalten ihr Sprechen bewusst und leisten mündliche Beiträge zum Unterricht.\n\nSie drücken ihre Gedanken und Gefühle aus und formulieren ihre Äußerungen im Hinblick auf Zuhörer und Situation angemessen, hören aufmerksam und genau zu, nehmen die Äußerungen anderer und setzen sich mit diesen konstruktiv auseinander."""@de;
 	skos:narrower 
 		n1:t4u,
 		n1:e5f,
@@ -390,7 +391,8 @@ n1:f9a
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Schreiben"@de;
+	skos:prefLabel "Schreiben"@de; 
+	skos:definition """Im Unterschied zum Sprechen wird beim Schreiben der Text langsamer und überlegter entwickelt, über Geschriebenes kann auch mit anderen nachgedacht und es kann entsprechend überarbeitet werden.\n\nDie Schülerinnen und Schüler nutzen Schreiben zur Kommunikation, zur Aufbewahrung von Informationen, zur gedanklichen Auseinandersetzung sowie zum kreativen und gestalterischen Umgang mit Sprache. Sie gestalten den Schreibprozess selbstständig und verfassen ihre Texte bewusst im Zusammenhang von Schreibabsicht, Inhaltsbezug und Verwendungszusammenhang. Dabei greifen die Teilprozesse des Schreibens ineinander: Texte planen, aufschreiben und überarbeiten.\n\nDie Kinder verfügen über grundlegende Rechtschreibstrategien. Sie können lautentsprechend verschriften und berücksichtigen orthographische und morphematische Regelungen und grammatisches Wissen. Sie haben erste Einsichten in die Prinzipien der Rechtschreibung gewonnen. Sie erproben und vergleichen Schreibweisen und denken über sie nach. Sie gelangen durch Vergleichen, Nachschlagen im Wörterbuch und Anwenden von Regeln zur richtigen Schreibweise. Sie entwickeln Rechtschreibgespür und Selbstverantwortung ihren Texten gegenüber.\n\nDie Schülerinnen und Schüler verfügen über verschiedene Möglichkeiten der ästhetischen Darstellung entsprechend dem Schreibanlass und arbeiten mit unterschiedlichen Medien. Sie schreiben eine lesbare und flüssige Handschrift."""@de;
 	skos:narrower 
 		n1:s3a,
 		n1:y7a,
@@ -610,7 +612,8 @@ n1:z4s
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Lesen – mit Texten und Medien umgehen"@de;
+	skos:prefLabel "Lesen – mit Texten und Medien umgehen"@de; 
+	skos:definition """Lesen ist ein eigenaktiver Prozess der Sinnkonstruktion. Die Grundschule führt zum genießenden, informierenden, selektiven, interpretierenden und kritischen Lesen und legt damit eine tragfähige Grundlage für weiteres Lernen, für weiteres selbstbestimmtes Lesen und eine bewusste Auswahl geeigneter Medien.\n\nDie Kinder erfahren, dass Lesen eine Auseinandersetzung mit der Welt ermöglicht und Vergnügen bereiten kann. Dazu werden an unterschiedlichen Texten Leseinteresse, Lesebereitschaft, Lesefertigkeit und sinnverstehendes Lesen entwickelt. Beim Hören und Lesen literarischer Texte beschäftigen sich die Kinder mit wichtigen, sie bewegenden Fragen und setzen sich identifizierend und abgrenzend mit literarischen Figuren auseinander. Schülerinnen und Schüler gehen mit unterschiedlichen Textsorten in verschiedenen Medien um und können sich ihrem Alter entsprechend in der Medienwelt orientieren, d.h. in Druckmedien, in elektronischen Medien sowie in Massenmedien."""@de;
 	skos:narrower 
 		n1:p2d,
 		n1:d5b,
@@ -621,49 +624,25 @@ n1:z7r
 	skos:inScheme n0:;
 	skos:notation "4.1.1";
 	skos:broader n1:f5c;
-	skos:prefLabel "verschiedene Sorten von Sach- und Gebrauchstexten kennen,"@de.
+	skos:prefLabel "Beziehung zwischen Absicht – sprachlichen Merkmalen – Wirkungen untersuchen,"@de.
 n1:d9b
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4.1.2";
 	skos:broader n1:f5c;
-	skos:prefLabel "Erzähltexte, lyrische und szenische Texte kennen und unterscheiden,"@de.
+	skos:prefLabel "Unterschiede von gesprochener und geschriebener Sprache kennen,"@de.
 n1:u5g
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4.1.3";
 	skos:broader n1:f5c;
-	skos:prefLabel "Kinderliteratur kennen: Werke, Autoren und Autorinnen, Figuren, Handlungen,"@de.
+	skos:prefLabel "Rollen von Sprecher/Schreiber – Hörer/Leser untersuchen und nutzen,"@de.
 n1:r2f
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "4.1.4";
 	skos:broader n1:f5c;
-	skos:prefLabel "Texte begründet auswählen,"@de.
-n1:u6e
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "4.1.5";
-	skos:broader n1:f5c;
-	skos:prefLabel "sich in einer Bücherei orientieren,"@de.
-n1:q6c
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "4.1.6";
-	skos:broader n1:f5c;
-	skos:prefLabel "Angebote in Zeitungen und Zeitschriften, in Hörfunk und Fernsehen, auf Ton- und Bildträgern sowie im Netz kennen, nutzen und begründet auswählen,"@de.
-n1:q5g
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "4.1.7";
-	skos:broader n1:f5c;
-	skos:prefLabel "Informationen in Druck - und – wenn vorhanden - elektronischen Medien suchen,"@de.
-n1:g2f
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "4.1.8";
-	skos:broader n1:f5c;
-	skos:prefLabel "die eigene Leseerfahrung beschreiben und einschätzen."@de.
+	skos:prefLabel "über Verstehens- und Verständigungsprobleme sprechen."@de.
 n1:f5c
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -674,11 +653,7 @@ n1:f5c
 		n1:z7r,
 		n1:d9b,
 		n1:u5g,
-		n1:r2f,
-		n1:u6e,
-		n1:q6c,
-		n1:q5g,
-		n1:g2f.
+		n1:r2f.
 n1:t3f
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -862,7 +837,8 @@ n1:b6p
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de;
+	skos:prefLabel "Sprache und Sprachgebrauch untersuchen"@de; 
+	skos:definition "Anknüpfend an ihre Spracherfahrungen entwickeln die Kinder ihr Sprachgefühl weiter und gehen bewusster mit Sprache um. In altersgemäßen, lebensnahen Sprach- und Kommunikationssituationen erfahren und untersuchen die Kinder die Sprache in ihren Verwendungszusammenhängen und gehen dabei auf die inhaltliche Dimension und die Leistung von Wörtern, Sätzen und Texten ein. Sie sprechen auch über Erfahrungen mit anderen Sprachen. Sie verfügen über ein Grundwissen an grammatischen Strukturen, einen Grundbestand an Begriffen und Verfahren zum Untersuchen von Sprache."@de;
 	skos:narrower 
 		n1:f5c,
 		n1:u7g,

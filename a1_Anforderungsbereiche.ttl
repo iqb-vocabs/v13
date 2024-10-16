@@ -7,23 +7,23 @@
 n1:d7b
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "1";
+	skos:notation "I";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Anforderungsbereich 'Wiedergeben' (AB I)"@de; 
+	skos:prefLabel "Wiedergeben"@de; 
 	skos:definition "In diesem Anforderungsbereich geben die Schülerinnen und Schüler bekannte Informationen wieder und wenden grundlegende Verfahren und Routinen an."@de.
 n1:h6f
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "2";
+	skos:notation "II";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Anforderungsbereich 'Zusammenhänge herstellen' (AB II)"@de; 
+	skos:prefLabel "Zusammenhänge herstellen"@de; 
 	skos:definition "In diesem Anforderungsbereich bearbeiten die Schülerinnen und Schüler vertraute Sachverhalte, indem sie erworbenes Wissen und bekannte Methoden anwenden und miteinander verknüpfen."@de.
 n1:a5s
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "3";
+	skos:notation "III";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Anforderungsbereich 'Reflektieren und beurteilen' (AB III)"@de; 
+	skos:prefLabel "Reflektieren und beurteilen"@de; 
 	skos:definition "In diesem Anforderungsbereich bearbeiten die Schülerinnen und Schüler für sie neue Problemstellungen, die eigenständige Beurteilungen und eigene Lösungsansätze erfordern."@de.
 n0:
 	a skos:ConceptScheme;
