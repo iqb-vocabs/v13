@@ -28,7 +28,7 @@ n1:a5s
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Deutsch Primar 2004 - Fachspezifische Beschreibung der Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Deutsch Primar 2004 - Anforderungsbereiche"@de;
 	dct:description """Die folgenden Aufgabenbeispiele zeigen die Bandbreite unterschiedlicher Anforderungen. Zur Einschätzung der in den Aufgabenbeispielen gestellten Anforderungen wird auf drei Anforderungsbereiche zurückgegriffen, die hier exemplarisch anhand von Aufgabenstellungen aus zwei Aufgabenbeispielen zum Lesen und zum Schreiben konkretisiert werden."""@de;
 	skos:hasTopConcept
 		n1:d7b,
